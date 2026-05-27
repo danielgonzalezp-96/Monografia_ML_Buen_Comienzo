@@ -67,6 +67,7 @@ Se observaron diferencias de desempeño entre las cohortes 2024 y 2025, sugirien
 # **Autores**
 - Daniel González Pabón
 - Pablo Peláez Cardona
+
 Monografía de grado — Análisis y Ciencia de Datos - Universidad de Antioquia 2026
 
-> Nota: Por motivos de confidencialidad y protección de datos personales, las bases originales del programa Buen Comienzo no se incluyen públicamente en este repositorio.
+> Nota: Por motivos de confidencialidad y protección de datos personales, las bases originales del programa Buen Comienzo no se incluyen públicamente en este repositorio. Paa reproducción del notebook usa esta contraseña con toda responsabilidad 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
