@@ -71,3 +71,10 @@ Se observaron diferencias de desempeño entre las cohortes 2024 y 2025, sugirien
 Monografía de grado — Análisis y Ciencia de Datos - Universidad de Antioquia 2026
 
 > Nota: Por motivos de confidencialidad y protección de datos personales, las bases originales del programa Buen Comienzo no se incluyen públicamente en este repositorio. Paa reproducción del notebook usa esta contraseña con toda responsabilidad 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
+>
+> ## Visualización del notebook
+
+El archivo principal del análisis está disponible en dos formatos:
+
+- `Analisis_monografia.ipynb`: notebook reproducible con el flujo de análisis y modelado.
+- `Analisis_monografia.html`: versión renderizada para lectura, recomendada porque GitHub puede tardar o fallar al visualizar notebooks pesados.
